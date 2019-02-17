@@ -2,7 +2,7 @@
 A guestbook using MySQL to store information.
 
 # Usage
-1. Clone files onto a Php-enabled server.
+1. Clone files onto a LAMP-server.
 2. Move into the source folder.
    `cd Guestbook-v2`
 3. Execute the create_db.php file.\n
