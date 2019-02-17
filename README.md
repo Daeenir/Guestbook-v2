@@ -5,7 +5,7 @@ A guestbook using MySQL to store information.
 1. Clone files onto a Php-enabled server.
 2. Move into the source folder.
    `cd Guestbook-v2`
-3. Execute the create_db.php file.
+3. Execute the create_db.php file.\n
    `php db/create_db.php`
 4. Open the php file in a browser.
 
