@@ -2,7 +2,7 @@
 A guestbook using MySQL to store information.
 
 # Usage
-1. Clone files onto a LAMP-server.
+1. Clone files onto a LAMP/MAMP/WAMP-server.
 2. Move into the source folder.
    `cd Guestbook-v2`
 3. Edit the variables for host, login, password and database in create_db.php to match credentials with your MySQL server.
